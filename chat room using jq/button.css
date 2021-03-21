@@ -1,0 +1,7 @@
+.send{
+    width: 100%;
+    color: cornflowerblue;
+    background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0, 0.4);
+  font-weight: bold;
+}
